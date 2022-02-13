@@ -34,7 +34,7 @@
             "value": ""
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "Username or ID of Admin. Separate multiple Admins by space.Must Add This ID (1311721975) In Below Having Box Otherwise Bot Cannot Work",
             "value": "1311721975"
         },
         "AUTH_USERS": {
